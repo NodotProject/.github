@@ -1,6 +1,6 @@
 # Nodot
 
-[![logo](logo.png)](https://github.com/NodotProject/nodot/blob/main/logo.png)
+![logo](https://github.com/NodotProject/nodot/blob/main/logo.png)
 
 **A node composition library for Godot 4**
 
