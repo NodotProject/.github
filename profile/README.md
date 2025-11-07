@@ -6,8 +6,7 @@
 
 **Empowering Godot Developers with Open-Source Tools**
 
-[![](https://dcbadge.vercel.app/api/server/Rx9CZX4sjG)](https://discord.gg/Rx9CZX4sjG)  
-[![](https://img.shields.io/youtube/channel/subscribers/UColWkNMgHseKyU7D1QGeoyQ?label=YOUTUBE&style=for-the-badge)](https://www.youtube.com/@GodotNodot)
+[![](https://img.shields.io/discord/1089846386566111322?label=DISCORD&style=for-the-badge)](https://discord.gg/Rx9CZX4sjG) [![](https://img.shields.io/youtube/channel/subscribers/UColWkNMgHseKyU7D1QGeoyQ?label=YOUTUBE&style=for-the-badge)](https://www.youtube.com/@GodotNodot)
 
 Nodot began as a focused node composition library built for Godot 4, designed to simplify game development by providing ready-to-use components. Over time, it has evolved into a vibrant hub for a diverse array of interesting projects and tools, all aimed at empowering Godot developers.
 
